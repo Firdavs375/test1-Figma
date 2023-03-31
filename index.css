@@ -1,0 +1,200 @@
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Tinos&display=swap');
+
+  * {
+    margin: 0;
+    padding: 0;
+    cursor: pointer auto;
+    list-style: none;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+  }
+
+  body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Tinos', serif;
+  }
+
+  .list_items {
+    display: flex;
+    gap: 23px;
+    align-items: center;
+    margin-top: 74px;
+    margin-left: 60px;
+  }
+
+  .magazin {
+    width: 15px;
+    height: 15px;
+  }
+
+  .list {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+  }
+
+  nav {
+    background: url(./img/nav\ image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 820px;
+  }
+
+  .logo1 {
+    margin-top: 50px;
+  }
+
+  .div1 {
+    display: flex;
+    gap: 8px;
+  }
+
+  .tel {
+    width: 23px;
+    height: 23px;
+  }
+
+  .telnomer {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+  }
+
+  .text {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+  }
+
+  .tel_text_div_1 {
+    margin-top: 55px;
+  }
+
+  .btnbir {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    background: #FF7400;
+    border: none;
+    padding: 14px 19px;
+  }
+
+  .katt_div {
+    display: flex;
+    gap: 45px;
+    margin-left: 50px;
+  }
+
+  .btndiv1 {
+    margin-top: 59px;
+  }
+
+  .sar1 {
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 57px;
+    color: #D67E35;
+  }
+
+  .sar2 {
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 92px;
+    color: #D67E35;
+  }
+
+  .text2 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+  }
+
+  .btn2 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    background: #FF7400;
+    padding: 14px 27px;
+    border: none;
+  }
+
+  .textdiv2 {
+    text-align: center;
+    margin-top: 200px;
+  }
+
+  .oqdiv1 {
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.377);
+    width: 349px;
+    height: 328px;
+    padding: 35px 0px 0px;
+    text-align: center;
+    position: relative;
+    margin-top: 100px;
+  }
+
+  .sar3 {
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 30px;
+    color: #2C2C2C;
+  }
+
+  .text3 {
+    font-family: 'Tinos';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    color: #656363;
+    margin-top: 20px;
+  }
+
+  .sar3 span {
+    color: #BC9060;
+  }
+
+  .rasm1 {
+    width: 115px;
+    height: 104px;
+  }
+
+  .burger_bg {
+    background: url(./img/burger.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  section {
+    background: url(./img/section.bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 300px;
+  }
